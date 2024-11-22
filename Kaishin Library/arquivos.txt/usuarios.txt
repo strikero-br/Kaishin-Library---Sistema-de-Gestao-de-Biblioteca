@@ -1,4 +1,1 @@
-1;aaa@gmail.com;aaa;aaaaaa;Cliente
-2;bbb@gmail.com;bbb;bbbbbb;Bibliotecario
-3;fassds@gmail.com;ttt;tttttt;Cliente
-4;aae@gmail.com;eee;eeeeee;Cliente
+
