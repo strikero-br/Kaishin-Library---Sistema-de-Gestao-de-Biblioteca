@@ -1,6 +1,9 @@
 <p align="right">
-  <a href="https://github.com/strikero-br/Kaishin-Library---Sistema-de-Gestao-de-Biblioteca">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="80" height="80">
+  <a href="https://github.com/strikero-br/Kaishin-Library-Sistema-de-Gestao-de-Biblioteca">
+    <img src="https://img.icons8.com/win10/200/228BE6/github.png" alt="GitHub" width="90" height="90">
+  </a>
+  <a href="https://kaishinlibrary.my.canva.site/">
+    <img src="https://cdn.discordapp.com/attachments/1308085240350249081/1308090738373955584/pixelcut-export.png?ex=6743456f&is=6741f3ef&hm=b6ca41284d76e8e3fc99a07958e374cfa080bef2fb9fe1ecdd367b34296536c5&" alt="Kaishin Library" width="75" height="75">
   </a>
 </p>
 
@@ -18,6 +21,12 @@
 
 ---
 
+## 🌐 **Apresentação do Projeto**
+### 👉 [Acesse a apresentação oficial do projeto: Kaishin Library](https://kaishinlibrary.my.canva.site/)
+
+> Conheça mais sobre o projeto, seu funcionamento e o impacto no gerenciamento de bibliotecas.
+
+---
 
 ## **Funcionalidades Principais**
 
@@ -58,12 +67,12 @@ Caso prefira trabalhar diretamente com o código-fonte:
 #### **Passos:**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/strikero-br/Kaishin-Library---Sistema-de-Gestao-de-Biblioteca.git
+   git clone https://github.com/strikero-br/Kaishin-Library-Sistema-de-Gestao-de-Biblioteca.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd Kaishin-Library---Sistema-de-Gestao-de-Biblioteca/Kaishin Library
+   cd Kaishin-Library-Sistema-de-Gestao-de-Biblioteca/Kaishin Library
    ```
 
 3. Instale as dependências:
@@ -100,11 +109,30 @@ Kaishin Library/
 │   └── usuario.py           # Classe abstrata para usuários
 ├── main.py                  # Arquivo principal para execução
 ├── utils.py                 # Funções utilitárias para manipulação de arquivos
+├── requirements.txt         # Dependências do projeto
 └── dist/
     └── Kaishin Library.exe  # Arquivo executável do programa
 ```
 
 ---
+
+## **Nota para Desenvolvedores**
+
+Se você está tendo dificuldades com a instalação do repositório ou deseja uma alternativa, disponibilizamos uma pasta no Google Drive com os seguintes recursos:
+
+- **Arquivo ZIP com o Projeto Completo**: Inclui todo o código-fonte do projeto, organizado e pronto para ser extraído.
+- **Setup Instalador do Programa**: Contém o instalador do programa, permitindo a instalação e execução do programa diretamente, sem a necessidade de clonar o repositório ou configurar o ambiente Python.
+
+### 📂 **Acesse a Pasta no Google Drive**: [Kaishin Library - Recursos para Desenvolvedores](https://drive.google.com/drive/folders/19r-Hj3NrSVdm5Nbn87oS-BwpLNeV9f7z?usp=drive_link)
+
+
+### 📌 **↴**
+
+**Além de executar o código diretamente, o projeto inclui um arquivo executável disponível na pasta `dist/Kaishin Library.exe` dentro do repositório, caso você já tenha clonado o projeto. Esse arquivo permite a execução do programa sem a necessidade de configurar o ambiente Python.**
+
+
+--- 
+
 
 ## **Licença**
 
@@ -114,10 +142,9 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo `LICENS
 
 ## **Contato**
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: **jonathandelmonte10@gmail.com**.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: **kaishinlibrary@gmail.com**.
 
 ---
 
 ### **Contribuições**
-Contribuições são bem-vindas! Caso tenha ideias ou melhorias, sinta-se à vontade para abrir um pull request ou relatar problemas na aba de issues.
-
+Contribuições são bem-vindas! Caso tenha ideias ou melhorias, sinta-se à vontade para abrir um pull request, relatar problemas na aba de issues ou abrir uma discussão no repositório.
